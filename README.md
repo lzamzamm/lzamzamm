@@ -1,4 +1,5 @@
-[!masterhead] (https://images-cdn.newscred.com/Zz04NjA3ZjljMjQ0ODkxMWViOWRjYzU1OGJkNjI1ZjVkZA==)
+[![MasterHead](https://cdn.dribbble.com/users/287797/screenshots/15085674/media/579bd59bfa778697a59a3dbe267ef79e.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi, I'm Zamzam</h1>
 
 # 💫 About Me:
