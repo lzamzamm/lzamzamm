@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/userupload/4048272/file/original-7ee587e1bcedfe5cb799e8739644d1f4.gif)]
+![MasterHead](https://cdn.dribbble.com/users/43762/screenshots/17417911/spam_alert_dribbble_high.png)
 
 <h1 align="center">Hi, I'm Zamzam</h1>
 
