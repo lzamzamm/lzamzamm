@@ -1,4 +1,4 @@
-[![MasterHead]([https://cdn.dribbble.com/users/287797/screenshots/15085674/media/579bd59bfa778697a59a3dbe267ef79e.gif](https://images.squarespace-cdn.com/content/v1/5e20a100cc48814e9cde1264/1585844360666-70IN2VD96J3UOYA04K6Q/Virtual+Global+Trivia+-+2000px+x+600px.gif))](https://rishavchanda.io)
+![MasterHead](https://images.squarespace-cdn.com/content/v1/5e20a100cc48814e9cde1264/1585844360666-70IN2VD96J3UOYA04K6Q/Virtual+Global+Trivia+-+2000px+x+600px.gif)]
 
 <h1 align="center">Hi, I'm Zamzam</h1>
 
