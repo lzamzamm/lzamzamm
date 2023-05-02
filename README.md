@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/43762/screenshots/17417911/spam_alert_dribbble_high.png)
+![MasterHead](https://cdn.dribbble.com/users/43762/screenshots/17417911/spam_alert_dribbble_high.png?compress=1&resize=400x300)
 
 <h1 align="center">Hi, I'm Zamzam</h1>
 
