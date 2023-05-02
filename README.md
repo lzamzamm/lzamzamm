@@ -1,4 +1,4 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/5e20a100cc48814e9cde1264/1585844360666-70IN2VD96J3UOYA04K6Q/Virtual+Global+Trivia+-+2000px+x+600px.gif)]
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*5ngZiNtGMrp_xmZHxSvJ0g.gif)]
 
 <h1 align="center">Hi, I'm Zamzam</h1>
 
