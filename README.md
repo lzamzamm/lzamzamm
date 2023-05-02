@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*5ngZiNtGMrp_xmZHxSvJ0g.gif)]
+[![MasterHead](https://cdn.dribbble.com/userupload/4048272/file/original-7ee587e1bcedfe5cb799e8739644d1f4.gif)]
 
 <h1 align="center">Hi, I'm Zamzam</h1>
 
