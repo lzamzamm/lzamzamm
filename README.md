@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Zamzam</h1>
 
 # 💫 About Me:
-I'm a frontEnd web developer<br>I'm currently learning about machine learning<br>
+I'm a fullStack web developer<br>I'm currently learning about machine learning<br>
 
 
 ## 🌐 Socials:
@@ -25,8 +25,6 @@ I'm a frontEnd web developer<br>I'm currently learning about machine learning<br
 ---
 [![](https://visitcount.itsvg.in/api?id=lzamzamm&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Luthfantry Zamzam) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
